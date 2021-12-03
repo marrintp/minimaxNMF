@@ -1,10 +1,3 @@
-
-# Minimax NMF Version 1.0 #
-Copyright (c) <2020> <University of Mons>  
-COLORAMAP Group, Univ. of Mons, Belgium  
-(See individual files for license)  
-
-
 # Description #
 
 This matlab package contains files implementing an approximate subgradient 
@@ -15,7 +8,8 @@ method for solving a minimax nonnegative matrix factorization problem,
     H in R_{>0}^{r x p}
 
 for some data, {X_i} in R_{>0}^{b x p} for i = 1, ... , n, as described 
-in the paper: 
+in the paper:  
+
 "Hyperspectral Unmixing with Rare Endmembers via Minimax Nonnegative Matrix 
 Factorization." by TIM MARRINAN and NICOLAS GILLIS.
 
