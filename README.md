@@ -1,0 +1,2 @@
+# minimaxNMF
+Minimax NMF
