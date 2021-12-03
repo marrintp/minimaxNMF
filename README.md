@@ -148,10 +148,10 @@ to cut data into patches.
 # Citation: #
 
 If you find this code useful in your research, please cite:  
-       Marrinan, Timothy and Nicolas Gillis.
-       "Hyperspectral Unmixing with Rare Endmembers via Minimax
-       Nonnegative Matrix Factorization." In 28th European Signal 
-       Processing Conference (EUSIPCO) , pp. 69-78. IEEE, 2020.
+       
+       Hyperspectral unmixing with rare endmembers via minimax nonnegative matrix factorization.
+       T. Marrinan and N. Gillis.
+       Proc. IEEE 28th European Signal Processing Conference (EUSIPCO), (2021): 1015-1019.
 
 
 
